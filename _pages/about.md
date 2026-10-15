@@ -20,3 +20,10 @@ A numbers puzzle game that tests mental arithmetic and logic—challenge yoursel
 
 📲 [Download on Play Store](https://play.google.com/store/apps/details?id=com.freedom.puzzle.number24)
 
+======
+This Block Is Mine!
+------
+Solve rectangle puzzles, earn stars, and build a cozy home with animal friends.
+
+📲 [Download on Play Store](https://play.google.com/store/apps/details?id=com.freedom.puzzle.patches)
+
