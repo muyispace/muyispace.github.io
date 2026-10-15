@@ -14,15 +14,16 @@ In January 2026, I finally published my first small game on the Play Store, taki
 
 🎮 Portfolio
 ======
- 24! Puzzle
-------
+### 24! Puzzle
+
 A numbers puzzle game that tests mental arithmetic and logic—challenge yourself to make 24 with 4 cards!
 
 📲 [Download on Play Store](https://play.google.com/store/apps/details?id=com.freedom.puzzle.number24)
 
-======
- This Block Is Mine!
 ------
+
+### This Block Is Mine!
+
 Solve rectangle puzzles, earn stars, and build a cozy home with animal friends.
 
 📲 [Download on Play Store](https://play.google.com/store/apps/details?id=com.freedom.puzzle.patches)
