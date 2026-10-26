@@ -28,3 +28,11 @@ Solve rectangle puzzles, earn stars, and build a cozy home with animal friends.
 
 📲 [Download on Play Store](https://play.google.com/store/apps/details?id=com.freedom.puzzle.patches)
 
+------
+
+### Cargo Swoop: Color Puzzle
+
+Match cargo to colorful trucks and clear the warehouse!
+
+📲 [Download on Play Store](https://play.google.com/store/apps/details?id=com.freedom.puzzle.cargo)
+
